@@ -5,6 +5,7 @@
 - 名前：EXC
 - 所在地：日本
 - 得意言語：C++
+- 使用経験：C# Java JavaScript Python
 
 ## Hobbies
 ### Creative
@@ -71,7 +72,7 @@ JPの方が好き。
 
 ## Works
 ### Programming
-準備中
+― [GitHub](https://github.com/Exc-yujin)
 
 ### Movie
 - [niconico EXC](https://www.nicovideo.jp/user/32250153)
