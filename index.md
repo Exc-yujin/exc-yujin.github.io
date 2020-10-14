@@ -74,7 +74,7 @@ JPの方が好き。
 準備中
 
 ### Movie
-- niconico <iframe width="320" height="160" src="https://ext.nicovideo.jp/thumb_user/32250153" scrolling="no" style="border:solid 1px #CCC;" frameborder="0">EXC</iframe>
+- [niconico EXC](https://www.nicovideo.jp/user/32250153)
 
 - [Youtube 友人 Music](https://www.youtube.com/channel/UCtVrRoBBCdBjIrAFha9zQGg/about?view_as=subscriber)
 
@@ -85,20 +85,28 @@ JPの方が好き。
 
 ### Music
 おすすめ曲
+
 <script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm37101602/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm37101602">【雨歌エル】スター・キャスター【オリジナル】</a></noscript>
+
 おすすめトラック
+
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/900270622&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/exc-442133669" title="友人" target="_blank" style="color: #cccccc; text-decoration: none;">友人</a> · <a href="https://soundcloud.com/exc-442133669/midnight-dtm-challenge-2" title="Midnight DTM Challenge 2" target="_blank" style="color: #cccccc; text-decoration: none;">Midnight DTM Challenge 2</a></div>
+
 - [SoundCloud](https://soundcloud.com/exc-442133669)
 - [Piapro](https://piapro.jp/bamboowonsstring)
 - [ニコニ・コモンズ](https://commons.nicovideo.jp/user/2147331)
 
 ## Communication
 [Twitter](https://twitter.com/Exc_yujin)
+
 タイムライン
+
 <a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/Exc_yujin?ref_src=twsrc%5Etfw">Tweets by Exc_yujin</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 [Note](https://note.com/bamboowonsstring)
+
 おすすめ記事
+
 <iframe class="note-embed" src="https://note.com/embed/notes/n22d73389ccb7" style="border: 0; display: block; max-width: 99%; width: 494px; padding: 0px; margin: 10px 0px; position: static; visibility: visible;" height="400"></iframe><script async src="https://note.com/scripts/embed.js" charset="utf-8"></script>
 
 ## Extra
