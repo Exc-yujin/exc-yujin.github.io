@@ -1,12 +1,43 @@
 # About
 将来の夢はゲームプログラマーなその辺の学生
 
+---
+
 ## Profile
 - 名前：EXC
 - 所在地：日本
 - 得意言語：C++
 - 使用経験：C# Java JavaScript Python
 
+---
+
+## Works
+### Programming
+― [GitHub](https://github.com/Exc-yujin)
+
+### Movie
+- [niconico EXC](https://www.nicovideo.jp/user/32250153)
+
+- [Youtube 友人 Music](https://www.youtube.com/channel/UCtVrRoBBCdBjIrAFha9zQGg/about?view_as=subscriber)
+
+### illust
+<img src="my illust.png" width="200">
+
+- [niconico静画](https://seiga.nicovideo.jp/user/illust/32250153)
+
+### Music
+おすすめ曲
+
+<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm37101602/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm37101602">【雨歌エル】スター・キャスター【オリジナル】</a></noscript>
+
+おすすめトラック
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/900270622&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/exc-442133669" title="友人" target="_blank" style="color: #cccccc; text-decoration: none;">友人</a> · <a href="https://soundcloud.com/exc-442133669/midnight-dtm-challenge-2" title="Midnight DTM Challenge 2" target="_blank" style="color: #cccccc; text-decoration: none;">Midnight DTM Challenge 2</a></div>
+
+- [SoundCloud](https://soundcloud.com/exc-442133669)
+- [Piapro](https://piapro.jp/bamboowonsstring)
+- [ニコニ・コモンズ](https://commons.nicovideo.jp/user/2147331)
+---
 ## Hobbies
 ### Creative
 - プログラミング
@@ -70,32 +101,7 @@ JPの方が好き。
 主にHololive。
 [友人を一人VTuberにしている](https://www.youtube.com/channel/UCilXilj-aU5f8Wt6UrZEWxA)
 
-## Works
-### Programming
-― [GitHub](https://github.com/Exc-yujin)
-
-### Movie
-- [niconico EXC](https://www.nicovideo.jp/user/32250153)
-
-- [Youtube 友人 Music](https://www.youtube.com/channel/UCtVrRoBBCdBjIrAFha9zQGg/about?view_as=subscriber)
-
-### illust
-<img src="my illust.png" width="200">
-
-- [niconico静画](https://seiga.nicovideo.jp/user/illust/32250153)
-
-### Music
-おすすめ曲
-
-<script type="application/javascript" src="https://embed.nicovideo.jp/watch/sm37101602/script?w=640&h=360"></script><noscript><a href="https://www.nicovideo.jp/watch/sm37101602">【雨歌エル】スター・キャスター【オリジナル】</a></noscript>
-
-おすすめトラック
-
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/900270622&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/exc-442133669" title="友人" target="_blank" style="color: #cccccc; text-decoration: none;">友人</a> · <a href="https://soundcloud.com/exc-442133669/midnight-dtm-challenge-2" title="Midnight DTM Challenge 2" target="_blank" style="color: #cccccc; text-decoration: none;">Midnight DTM Challenge 2</a></div>
-
-- [SoundCloud](https://soundcloud.com/exc-442133669)
-- [Piapro](https://piapro.jp/bamboowonsstring)
-- [ニコニ・コモンズ](https://commons.nicovideo.jp/user/2147331)
+---
 
 ## Communication
 [Twitter](https://twitter.com/Exc_yujin)
