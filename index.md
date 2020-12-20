@@ -12,6 +12,7 @@ VR・ゲームプログラマー見習い。まだギリギリ学生。
 ## Develop Activity
 ### Unity - Running Worker
 [Running Worker - EXC](https://unityroom.com/games/exc_create_with_code)
+<img src="./Images/exc_create_with_code_screenshot.jpg" width="640">
 
 制作：2020/12/10~12/20
 
