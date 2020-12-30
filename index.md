@@ -10,33 +10,27 @@ VR・ゲームプログラマー見習い。まだギリギリ学生。
 - 興味：VRとかゲームプログラミングとか
 
 ## Develop Activity
-### Unity - Running Worker
+### 1 Switch 1 Door(Unity)：2020/12/21~12/27
+[1 Switch 1 Door - EXC](https://unityroom.com/games/exc_one_switch_one_door)
+<img src="./Images/exc_one_switch_one_door_screenshot.png" width="640">
+
+キー移動で迷路を進み右上のゴールを目指す、オンライン対戦ゲーム。
+
+Unity 1 weekという企画で作成。
+
+### Running Worker(Unity)：2020/12/10~12/20
 [Running Worker - EXC](https://unityroom.com/games/exc_create_with_code)
+
 <img src="./Images/exc_create_with_code_screenshot.jpg" width="640">
 
-制作：2020/12/10~12/20
+スペースキーでジャンプするだけのジャンプゲーム。
 
-Unityの復習として、Unity Learn内のチュートリアルをやりながら作ってみた。
-改めてUnityの基本的なゲームプログラミングをやってみると、UniRxなんかが使いたくなる理由がよくわかる気がする。
-
-### SCP-TCG-JP-J再現
+### SCP-TCG-JP-J再現(Scala)：2020/11(中断)
 
 [https://github.com/Exc-yujin/SCPTcgLib](https://github.com/Exc-yujin/SCPTcgLib)
 
-制作：2020/11(中断)
-
 [購買部版SCP-TCG-JP-J](https://gamerch.com/scp-tcg-jp-pd/)というカードゲームの再現をするScalaプロジェクト。
-関数型プログラミングの勉強をしつつ、このカードゲームを遊べる環境を作りたいなーと思って始めたが挫折。
-いきなりルールの複雑なトレーディングカードゲームを選んだ上に、どんなカードゲームにでも対応できるデータ構造を考えながら作ったためやり切れずに投げ出してしまった。
-
-いまはブラックジャックとHaskellから復習中。Scalaって言うほど関数型じゃなくない？
-
 
 ---
-
-
-[好きな音楽とか、作曲とか](./hobbies.md)
-
-[その他の趣味](./hobbies.md)
 
 <a class="twitter-timeline" data-width="400" data-height="600" href="https://twitter.com/Exc_yujin?ref_src=twsrc%5Etfw">Tweets by Exc_yujin</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
