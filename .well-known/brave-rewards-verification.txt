@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: exc-yujin.github.io
+Token: 5bab7593107be9e8a048148942853b6dbc54f148de0d9529a46c9036284fc4e2
